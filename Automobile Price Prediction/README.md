@@ -30,7 +30,7 @@ Make sure to download the dataset from Kaggle and place it in the appropriate di
 
 ## 📈 Results & Insights
 - The models were evaluated based on performance metrics.
-- Feature importance analysis helped identify key factors affecting automobile prices.
+
 
 ## 🏁 Conclusion
 This project demonstrates the power of machine learning in predicting car prices with high accuracy. The trained models can assist dealerships and consumers in estimating fair market prices for vehicles.
