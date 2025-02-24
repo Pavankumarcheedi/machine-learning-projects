@@ -11,3 +11,11 @@ This repository contains various machine learning projects showcasing data prepr
   - Used **XGBoost Classifier** with **hyperparameter tuning**.
   - Evaluated using **Accuracy, Precision, Recall, and AUC Score**.
   - **Deployed using Flask** with a trained **XGBoost pipeline**.
+
+### 2️⃣ [Automobile Price Prediction](Automobile%20Price%20Prediction/)
+- **Goal:** Predict the price of an automobile based on various features.
+- **Dataset:** Automobile Dataset (Source: [Kaggle](https://www.kaggle.com/))
+- **Key Insights:**
+  - Used **XGBoost Regressor** as the best-performing model.
+  - Evaluated using **R² Score, Mean Squared Error (MSE), and Mean Absolute Error (MAE)**.
+  - **Model saved as `xgb_model.pkl` for future predictions.**
