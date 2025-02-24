@@ -59,6 +59,6 @@ The trained XGBoost model has been deployed using **Flask**, making it accessibl
 ### **Project Structure**
 - **`app.py`** – The Flask backend that handles model inference and API requests.
 - **`templates/index.html`** – The frontend user interface for the web app.
+- **`xgboost_pipeline.pkl`** -the model we created
 
-/project-root │── app.py # Flask backend for model inference │── static/ │ ├── styles.css # (If applicable) CSS for styling │── templates/ │ ├── index.html # Frontend user interface │── model/ │ ├── xgboost_pipeline.pkl # Serialized trained XGBoost model │── requirements.txt # Dependencies
 
