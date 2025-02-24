@@ -4,7 +4,7 @@
 This project aims to predict whether a customer will subscribe to a term deposit using machine learning techniques. The dataset used is the **Bank Marketing Dataset**, and we employ various classification algorithms, including **Logistic Regression, Decision Trees, Random Forest, and XGBoost**.
 
 ## Dataset
-- **Source**: [Kaggle - Bank Marketing Dataset]
+- **Dataset:** Bank Marketing Dataset (Source: [Kaggle](https://www.kaggle.com/))
 - **Features**:
   - Customer details: `age`, `job`, `marital`, `education`, `balance`, etc.
   - Contact details: `contact`, `day`, `duration`, `campaign`, `pdays`, etc.
