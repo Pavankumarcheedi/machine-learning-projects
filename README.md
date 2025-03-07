@@ -19,3 +19,11 @@ This repository contains various machine learning projects showcasing data prepr
   - Used **XGBoost Regressor** as the best-performing model.
   - Evaluated using **R² Score, Mean Squared Error (MSE), and Mean Absolute Error (MAE)**.
   - **Model saved as `xgb_model.pkl` for future predictions.**
+
+### 3️⃣ [Predicting Personal Loan Adoption with Machine Learning](Predicting%20Personal%20Loan%20Adoption%20with%20Machine%20Learning/)  
+- **Goal:** Predict whether a customer will accept a personal loan based on financial and demographic factors.  
+- **Dataset:** Personal Loan Dataset (Source: [Kaggle](https://www.kaggle.com/))  
+- **Key Insights:**  
+  - **Random Forest Classifier** performed best among tested models.  
+  - Evaluated using **Accuracy, Precision, Recall, F1-Score, and AUC-ROC**.  
+  - **Model saved as `random_forest_model.pkl` for future predictions.**  
